@@ -1,2 +1,11 @@
-# my-ai-chatbots
-Explore a collection of innovative and intuitive Telegram bots powered by OpenAI's cutting-edge technology. From conversational bots to content enhancers, this repository showcases the best of what AI can offer in the realm of instant messaging. Check it out and get inspired to build your own AI chatbots today!
+# My Open AI Telegram Chatbots
+
+## 1- Saleh's Ai YouTube Booster Bot 
+A Telegram bot that uses OpenAI's cutting-edge technology to enhance your YouTube video titles and descriptions.
+
+### Features
+- Enhance video titles to make them more eye-catching and professional
+- Optimize video descriptions to increase the click-through rate
+- Extract video titles from descriptions in a single click
+
+### [Bot Link](https://t.me/saleh_youtube_booster_bot)
